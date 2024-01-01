@@ -26,7 +26,7 @@ The Stopwatch application is a simple timer tool that allows users to track elap
 
 - **v1.0:** Initial release with basic timer functionalities.
 
-## Contributors
+## Authors
 
 - [NattyXO](https://github.com/NattyXO) - Lead Developer
 
