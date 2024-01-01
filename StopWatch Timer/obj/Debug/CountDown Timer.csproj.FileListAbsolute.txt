@@ -1,0 +1,14 @@
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.csprojResolveAssemblyReference.cache
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown_Timer.Form1.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown_Timer.Properties.Resources.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.csproj.GenerateResource.Cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.csproj.AssemblyReference.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.csproj.GenerateResource.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\bin\Debug\CountDown Timer.exe.config
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\bin\Debug\CountDown Timer.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\bin\Debug\CountDown Timer.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown Timer.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\StopWatchForm.Properties.Resources.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown_Timer.Form1.resources

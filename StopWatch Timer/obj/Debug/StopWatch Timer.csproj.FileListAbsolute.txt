@@ -1,0 +1,9 @@
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\CountDown_Timer.Form1.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\StopWatchForm.Properties.Resources.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\StopWatch Timer.csproj.GenerateResource.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\StopWatch Timer.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\bin\Debug\StopWatch Timer.exe.config
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\bin\Debug\StopWatch Timer.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\bin\Debug\StopWatch Timer.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\StopWatch Timer.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\CountDown Timer\CountDown Timer\obj\Debug\StopWatch Timer.pdb
